@@ -1,0 +1,49 @@
+# Unity generates these
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.apk
+*.aab
+.vs/
+.vscode/
+.idea/
+.DS_Store
+!/dotnet-tests/RulesTests.csproj
+/dotnet-tests/bin/
+/dotnet-tests/obj/
+
+# Third-party assets: their licences do not allow publishing them here, so import them
+# yourself (see the README). The scene finds them again once they are imported.
+/Assets/Rocks and Boulders 2/
+/Assets/Rocks and Boulders 2.meta
+/Assets/PBR Table/
+/Assets/PBR Table.meta
+/Assets/GrassFlowers/
+/Assets/GrassFlowers.meta
+/Assets/Handpainted_Grass_and_Ground_Textures/
+/Assets/Handpainted_Grass_and_Ground_Textures.meta
+/Assets/LowPolyMedievalPropsLite/
+/Assets/LowPolyMedievalPropsLite.meta
+/Assets/RPGPP_LT/
+/Assets/RPGPP_LT.meta
+/Assets/Oculus Hands/
+/Assets/Oculus Hands.meta
+/Assets/Unity Technologies/
+/Assets/Unity Technologies.meta
+/Assets/Plugins/
+/Assets/Plugins.meta
+/Assets/ressources/Materials/YughuesFreeMetalMaterials/
+/Assets/ressources/Materials/YughuesFreeMetalMaterials.meta
+/Assets/ressources/Sounds/
+/Assets/ressources/Sounds.meta
